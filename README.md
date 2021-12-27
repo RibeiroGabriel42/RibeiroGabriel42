@@ -29,7 +29,7 @@
 </div>
 
 <div>
-  <img src="https://c.tenor.com/5WIylYzVKHcAAAAC/silence-type.gif" width="240" height="240" align="right"/>
+  <img src="https://c.tenor.com/5WIylYzVKHcAAAAC/silence-type.gif" width="200" height="200" align="right"/>
 </div>
 
   ![Snake animation](https://github.com/RibeiroGabriel42/RibeiroGabriel42/blob/output/github-contribution-grid-snake.svg)
